@@ -1,8 +1,5 @@
-# Ignore large model and zip files
 *.pkl
 *.zip
-
-# Optional — ignore auto folders
 .ipynb_checkpoints/
 .vscode/
 .dist/
