@@ -1,5 +1,24 @@
-*.pkl
-*.zip
-.ipynb_checkpoints/
+# VSCode
 .vscode/
-.dist/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data / Model files
+*.pkl
+*.pickle
+*.db
+*.sqlite
+
+# Environment folders
+venv/
+env/
+.virtualenv/
+
+# System files
+.DS_Store
+Thumbs.db
