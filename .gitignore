@@ -8,16 +8,16 @@ __pycache__/
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Data / Model files
+# Data / Model files (uncomment if you don't want to track generated artifacts)
 *.pkl
 *.pickle
 *.db
 *.sqlite
 *.zip
 
-
 # Environment folders
 venv/
+.venv/
 env/
 .virtualenv/
 
